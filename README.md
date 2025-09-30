@@ -1,6 +1,6 @@
 # Machine_Learning
 
-**My  Learning Updates...... Stay Tuned**
+**My ML  Learning Updates...... Stay Tuned**
 
 This repository contains my journey and notes through learning Machine Learning concepts, techniques, and hands-on implementations. Each folder represents a key topic, technique, or task commonly encountered in data science and machine learning workflows.
 
